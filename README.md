@@ -23,7 +23,7 @@ Feel free to adjust it to your own use case
 * anomaly detection, or
 * whatever problem that needs ML models to quickly adapt to changing patterns
 
-leveraging the power of the [TurboML platform](https://turbo.ml).
+leveraging the power of the [TurboML platform](https://turboml.com).
 
 Let's dive in!
 
